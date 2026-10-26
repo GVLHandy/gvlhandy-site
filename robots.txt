@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gvlhandy.com/sitemap.xml
